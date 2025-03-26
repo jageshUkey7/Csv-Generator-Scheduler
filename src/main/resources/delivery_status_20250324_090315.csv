@@ -1,0 +1,2 @@
+ID,CreatedOn,DestinationNo,EventDate,ProcessorResponseId,SourceNo,Status,Cause,ProcessStatus;
+6,2025-03-23 08:57:44,918830978565,2024-11-25 16:42:13,5310169252206821460-229484178701628865,TESTSM,SENT,SENT,false

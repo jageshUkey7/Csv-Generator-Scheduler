@@ -1,0 +1,6 @@
+com\CsvGenerator\CsvGenratorServices\FileProcessRepository.class
+com\CsvGenerator\CsvGenratorServices\DeliveryStatus.class
+com\CsvGenerator\CsvGeneratorApplication.class
+com\CsvGenerator\CsvGenratorServices\FileProcess.class
+com\CsvGenerator\CsvGenratorServices\CsvGenRepository.class
+com\CsvGenerator\CsvGenratorServices\CsvGenService.class
